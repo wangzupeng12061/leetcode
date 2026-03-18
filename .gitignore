@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Obsidian
+.obsidian/
+
+# 模板
+模板/
